@@ -3,6 +3,11 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
+# Activate this widget? true/false
+# 2021-12-25: I set this widget to false. I set it to false instead of deleting in case I need the code for reference later.
+# Eventually, I want to add projects.
+active: false
+
 # This file represents a page section.
 headless: true
 

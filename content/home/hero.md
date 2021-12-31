@@ -1,5 +1,8 @@
 ---
 widget: hero
+# 2021-12-25: I set this widget to false. I set it to false instead of deleting in case I need the code for reference later.
+# Eventually, I think I want to use this one for my banner logo.
+active: false
 headless: true
 weight: 10
 title: Hugo Academic Theme

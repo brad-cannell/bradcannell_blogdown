@@ -4,7 +4,9 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+# 2021-12-25: I set this widget to false. I set it to false instead of deleting in case I need the code for reference later.
+# Eventually, I think I want to use this one for my banner logo.
+active: false
 
 # This file represents a page section.
 headless: true

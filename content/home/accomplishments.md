@@ -3,6 +3,11 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
+# Activate this widget? true/false
+# 2021-12-25: I set this widget to false. I set it to false instead of deleting in case I need the code for reference later.
+# Eventually, I think I want to use this one for testimonials from people I provided consulting work to.
+active: false
+
 # This file represents a page section.
 headless: true
 

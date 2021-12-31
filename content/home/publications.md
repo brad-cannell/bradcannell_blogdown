@@ -3,6 +3,11 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+# Activate this widget? true/false
+# 2021-12-25: I set this widget to false. I set it to false instead of deleting in case I need the code for reference later.
+# I don't plan on putting all of my publications on my website. Instead, I will link to LinkedIn and my CV. But, myabe I'll change my mind at some point.
+active: false
+
 # This file represents a page section.
 headless: true
 
