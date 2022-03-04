@@ -24,7 +24,10 @@ main:
   #   weight: 60
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 20
+  - name: R4Epi
+    url: 'https://www.r4epi.com'
+    weight: 30
   - name: Students
     url: 'students/'
-    weight: 80
+    weight: 40

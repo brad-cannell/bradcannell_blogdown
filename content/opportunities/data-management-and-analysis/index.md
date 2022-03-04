@@ -1,25 +1,23 @@
 ---
-# GRA page accessed from the students page via a widget.
-title: Graduate research assistantships
-summary: Graduate research assistantships (GRAs) are paid positions. As a GRA, you are sort of a jack of all trades. You may be asked to help with completing human subjects protection documentation for the Institutional Review Board (IRB), data collection, data management and analysis, literature reviews for papers and grants, paper and grant writing, submitting reports to funding agencies, and administrative tasks (e.g., purchasing and arranging travel).
+# This page accessed from the students page via a widget.
+title: Data management and analysis
+summary: Standalone data management and analysis projects. These projects typically need to be completed using R or Python.
 date: "2022-03-04"
 authors:
 - admin
 featured: true
 image:
-  caption: 'Photo by <a href="https://unsplash.com/@esteejanssens?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Estée Janssens</a> on <a href="https://unsplash.com/s/photos/schedule?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  caption: 'Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="https://unsplash.com/s/photos/spreadsheet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
   focal_point: ""
   preview_only: false
 tags:
-- GRAs
+- Data
 ---
 
-Graduate research assistantships (GRAs) are paid positions. As a GRA, you are sort of a jack of all trades. You may be asked to help with completing human subjects protection documentation for the Institutional Review Board (IRB), data collection, data management and analysis, literature reviews for papers and grants, paper and grant writing, submitting reports to funding agencies, and administrative tasks (e.g., purchasing and arranging travel).
+These are standalone data management and analysis projects that are available for volunteers who want to gain experience with real-world data. Some projects may also result in authorship on a publication.
 
-## Current GRA postions available
+## Current opportunities available
 
-1. Detection of Elder Abuse Through Emergency Care Technicians (DETECT) study.
+1. Merge DETECT data with APS data.
 
-    - DETECT is an NIH-funded study. As part of the study, we are testing the effectiveness of an elder mistreatment screening tool that is being used when EMTs and paramedics respond to 911 calls.
-
-    - I'm currently looking for a general GRA for the DETECT study. As you can see below, I'm also looking for people who want to do more specialized individual projects related to the DETECT study.
+    - I'm looking for someone who can help me link records across two administrative datasets that don't share a unique identifier. Instead, we will need to probabilistically match people across datasets based on name, date of birth, and address. We will likely use R's [RecordLinkage package](https://cran.r-project.org/web/packages/RecordLinkage/index.html), R's [fastLink package](https://github.com/kosukeimai/fastLink), or Python's [dedupe library](https://dedupe.io/) to accomplish this. 

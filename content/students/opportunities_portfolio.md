@@ -28,29 +28,27 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Graduate Research Assistantships
-    tag: GRAs
-  - name: Literature Reviews and Paper Writing
-    tag: lit_review
-  - name: Data Management and Analysis
-    tag: data
-  - name: Dashboards
-    tag: dashboard
-  - name: R Package Development
-    tag: r_package
-  - name: Teaching and Training Development
-    tag: training
-  - name: Website Development
-    tag: website
-  - name: Other
-    tag: other
+  # filter_button:
+  # - name: All
+  #   tag: '*'
+  # - name: Graduate Research Assistantships
+  #   tag: GRAs
+  # - name: Literature Reviews and Paper Writing
+  #   tag: Lit Review
+  # - name: Data Management and Analysis
+  #   tag: Data
+  # - name: Dashboards
+  #   tag: Dashboard
+  # - name: R Package Development
+  #   tag: R Package
+  # - name: Teaching and Training Development
+  #   tag: Training
+  # - name: Website Development
+  #   tag: Website
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
