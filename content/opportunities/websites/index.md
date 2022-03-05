@@ -6,10 +6,21 @@ date: "2022-03-04"
 authors:
 - admin
 featured: true
+
+# Image attribution. Make sure to update if you change the banner image.
 image:
   caption: 'Photo by <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> on <a href="https://unsplash.com/s/photos/internet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
   focal_point: ""
   preview_only: false
+  
+# Add link to Handshake
+links:
+  - icon_pack: fa
+    icon: handshake
+    name: Handshake
+    url: 'https://uth.joinhandshake.com/login'
+    
+# Tags
 tags:
 - Website
 ---
