@@ -18,7 +18,7 @@ links:
   - icon_pack: fa
     icon: handshake
     name: Handshake
-    url: 'https://uth.joinhandshake.com/login'
+    url: 'https://app.joinhandshake.com/emp/jobs/6153282'
 
 # Tags
 tags:
