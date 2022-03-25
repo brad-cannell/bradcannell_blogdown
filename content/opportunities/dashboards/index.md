@@ -41,6 +41,4 @@ These are standalone dashboard projects that are available for volunteers who wa
 
     - I'm looking for someone to help me create a dashboard similar to [DETECT recruiting dashboard](https://brad-cannell.github.io/detect_recruitment_dashboard/). However, it will include follow-up interview data instead of recruitment data.
 
-3. [L2C recruiting](https://github.com/brad-cannell/link2care_dashboard)
 
-    - I'm looking for someone to help me create a dashboard similar to [DETECT recruiting dashboard](https://brad-cannell.github.io/detect_recruitment_dashboard/). However, it will include data from the Link2Care study instead.
