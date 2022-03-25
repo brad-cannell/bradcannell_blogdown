@@ -18,7 +18,7 @@ links:
   - icon_pack: fa
     icon: handshake
     name: Apply on Handshake
-    url: 'https://app.joinhandshake.com/emp/jobs/6153282'
+    url: 'https://app.joinhandshake.com/emp/jobs/6234260'
     
 # Tags
 tags:
