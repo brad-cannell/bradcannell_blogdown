@@ -31,7 +31,7 @@ These are standalone dashboard projects that are available for volunteers who wa
 
 1. [DETECT recruiting](https://brad-cannell.github.io/detect_recruitment_dashboard/)
 
-    - I'm looking for someone to help me update and improve the dashboard linked above.
+    - I'm looking for someone to help me update and improve the dashboard linked here: https://brad-cannell.github.io/detect_recruitment_dashboard/.
 
     - This dashboard needs to be updated to include data from a new recruiting source (M. Davis). 
 
