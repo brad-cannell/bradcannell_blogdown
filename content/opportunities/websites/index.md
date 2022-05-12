@@ -13,12 +13,12 @@ image:
   focal_point: ""
   preview_only: false
   
-# Add link to Handshake
+# Add link to Apply
 links:
   - icon_pack: fa
-    icon: handshake
-    name: Apply on Handshake
-    url: 'https://app.joinhandshake.com/emp/jobs/6234260'
+    icon: envelope
+    name: Email to Apply
+    url: 'mailto:Michael.B.Cannell@uth.tmc.edu'
     
 # Tags
 tags:
