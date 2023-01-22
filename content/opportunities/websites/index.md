@@ -29,10 +29,4 @@ These are websites I need help creating, improving, and/or maintaining. Knowing 
 
 ## Current opportunities available
 
-1. Detection of Elder Abuse Through Emergency Care Technicians (DETECT) project.
-
-    - I need help with updating and improving the [public-facing DETECT website](https://github.com/brad-cannell/detect).
-
-    - Website link: https://brad-cannell.github.io/detect/
-
-    - Perhaps convert to using Blogdown [Academic Theme](https://wowchemy.com/hugo-themes/). Similar to the website you are currently viewing.
+Nothing at this time. Please check back in the future.

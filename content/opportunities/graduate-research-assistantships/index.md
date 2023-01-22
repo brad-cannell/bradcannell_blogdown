@@ -32,5 +32,3 @@ Graduate research assistantships (GRAs) are paid positions. As a GRA, you are so
 1. Detection of Elder Abuse Through Emergency Care Technicians (DETECT) study.
 
     - DETECT is an NIH-funded study. As part of the study, we are testing the effectiveness of an elder mistreatment screening tool that is being used when EMTs and paramedics respond to 911 calls.
-
-    - I'm currently looking for a general GRA for the DETECT study. As you can see below, I'm also looking for people who want to do more specialized individual projects related to the DETECT study.

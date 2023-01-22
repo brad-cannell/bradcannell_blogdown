@@ -37,8 +37,8 @@ These are standalone R package development projects that are available for volun
 
     - The goal of meantables is to quickly make tables of descriptive statistics (i.e., counts, means, confidence intervals) for continuous variables. This package is designed to work in a Tidyverse pipeline, and consideration has been given to get results from R to ‘Microsoft Word’ ® with minimal pain.
 
-3. [cerebro](https://github.com/brad-cannell/cerebro)
+3. [codebookr](https://github.com/brad-cannell/codebookr)
 
-    - The goal of cerebro is to find unique people (entities (mutants?)) in a dataset and assign them a unique ID.
+    - The goal of codebookr is to make it as easy as possible to create codebooks (data dictionaries) directly from the data frame the codebook is intended to describe. 
     
     

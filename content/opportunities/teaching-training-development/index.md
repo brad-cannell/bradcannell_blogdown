@@ -34,11 +34,3 @@ These are teaching and training projects I need help developing and/or improving
     - I always need help with fixing errors, updating, and adding content to my R for Epidemiology electronic textbook.
 
     - You can get an idea of what needs to be done by checking out the GitHub issues page.  Having said that, the issues page needs to be updated. Perhaps you can help with that too. 
-
-2. Write graduate student research continuity guide.
-
-     - This [guide for GRA's](https://docs.google.com/document/d/1j9UJ1H_uR1q3Iyyp2aC68rg0AaTbZPOtdKVzWi44L7k/edit#heading=h.b8vrkhisf0r1) needs to be updated and improved.
-
-3. Write teaching assistant continuity guide.
-
-    - This [guide for TA's](https://docs.google.com/document/d/1j9UJ1H_uR1q3Iyyp2aC68rg0AaTbZPOtdKVzWi44L7k/edit#heading=h.at9zn2hvxjd5) needs to be updated and improved.

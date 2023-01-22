@@ -7,6 +7,6 @@ type: "widget_page"
 
 Students landing page notes:
 
-The files in this folder make up the students landing page. The actual cotent pages for the widgets are in separate folders.
+The files in this folder make up the students landing page. The actual content pages for the widgets are in separate folders.
 
 Job postings are in: content/opportunities 

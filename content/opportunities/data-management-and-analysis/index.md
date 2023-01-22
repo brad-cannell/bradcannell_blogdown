@@ -32,11 +32,3 @@ These are standalone data management and analysis projects that are available fo
 1. **Merge DETECT data with APS data**
 
     - I'm looking for someone who can help me link records across two administrative datasets that don't share a unique identifier. Instead, we will need to probabilistically match people across datasets based on name, date of birth, and address. We will likely use R's [RecordLinkage package](https://cran.r-project.org/web/packages/RecordLinkage/index.html), R's [fastLink package](https://github.com/kosukeimai/fastLink), or Python's [dedupe library](https://dedupe.io/) to accomplish this. 
-    
-2. **Investigate Lorazepam and mortality**
-
-    - We are partnering with a DFW hospital to investigate the relationship between IV Lorazepam and mortality in older adult patients with cognitive impairment. We need a UTHealth student to help clean, analyze, and interpret the data. Your effort will likely result in a peer-reviewed publication. Please email me if interested.
-    
-3. **Opioid risk mitigation evaluation**
-
-    - We are partnering with the LBJ Palliative Care Program to evaluate the effects of multiple opioid risk-mitigation strategies. We need a UTHealth student to help clean, analyze, and interpret the data. Your effort will likely result in a peer-reviewed publication. Please email me if interested.
